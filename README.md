@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### Datasets
 Getting accurate datasets was an important step to get a good result .
 
-The data gotten from  ## <a id="[anchortext](https://giovanni.gsfc.nasa.gov/giovanni/)" />Giovani
+The data gotten from  [GIOVANNI](https://giovanni.gsfc.nasa.gov/giovanni/) .
 ### Usage
 
 1 - Data Preparation: Ensure your rainfall data is in a suitable time series format (e.g., CSV file with date and rainfall columns). Place your dataset in the Datasets/ directory.
