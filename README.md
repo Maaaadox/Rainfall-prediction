@@ -37,8 +37,17 @@ pip install -r requirements.txt
 ### Usage
 
 1 - Data Preparation: Ensure your rainfall data is in a suitable time series format (e.g., CSV file with date and rainfall columns). Place your dataset in the Datasets/ directory.
+
+
 ![image](https://github.com/user-attachments/assets/4409d585-58d7-4568-9a1c-2555a8bb6cd0)
 
+
+
 2 - Code Execution : Adjust the parametres based on your dataset and run the code !.
+
+
+![image](https://github.com/user-attachments/assets/313600ca-1404-4afa-ae35-ed48d01b3c8d)
+
+
 
 3 - Visualization : Visualize the plots of the compatison between original and forecasted data .
