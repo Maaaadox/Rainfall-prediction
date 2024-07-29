@@ -46,8 +46,12 @@ pip install -r requirements.txt
 2 - Code Execution : Adjust the parametres based on your dataset and run the code !.
 
 
-![image](https://github.com/user-attachments/assets/313600ca-1404-4afa-ae35-ed48d01b3c8d)
+![image](https://github.com/user-attachments/assets/8239702d-e765-49f7-b132-d5b431ae0614)
 
 
 
 3 - Visualization : Visualize the plots of the compatison between original and forecasted data .
+
+
+![image](https://github.com/user-attachments/assets/6cbb4466-de1d-4a04-9779-67890ce982cd)
+
