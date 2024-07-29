@@ -35,3 +35,9 @@ cd Rainfall-prediction
 pip install -r requirements.txt
 ```
 ### Usage
+
+1 - Data Preparation: Ensure your rainfall data is in a suitable time series format (e.g., CSV file with date and rainfall columns). Place your dataset in the Datasets/ directory.
+
+2 - Code Execution : Adjust the parametres based on your dataset and run the code !.
+
+3 - Visualization : Visualize the plots of the compatison between original and forecasted data .
