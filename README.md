@@ -1,6 +1,6 @@
 # Rainfall-prediction
 ## Overview
-This repository contains a complete implementation of precipitation prediction using the ARMA (AutoRegressive Moving Average) method. The ARMA model is a popular statistical method used for time series analysis and forecasting, making it suitable for predicting precipitation patterns based on historical data.
+This repository contains a complete implementation of precipitation prediction using the ARMA/ARIMA (AutoRegressive Moving Average/AutoRegressive integrated Moving Average) method. The ARMA/Arima models are a popular statistical methods used for time series analysis and forecasting, making it suitable for predicting precipitation patterns based on historical data.
 
 ## Features
 - Data preprocessing and cleaning
@@ -34,6 +34,10 @@ cd Rainfall-prediction
 ```
 pip install -r requirements.txt
 ```
+### Datasets
+Getting accurate datasets was an important step to get a good result .
+
+The data gotten from  ## <a id="[anchortext](https://giovanni.gsfc.nasa.gov/giovanni/)" />Giovani
 ### Usage
 
 1 - Data Preparation: Ensure your rainfall data is in a suitable time series format (e.g., CSV file with date and rainfall columns). Place your dataset in the Datasets/ directory.
